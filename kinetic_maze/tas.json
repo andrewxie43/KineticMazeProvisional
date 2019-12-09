@@ -1,0 +1,59 @@
+{
+    "path": [
+        {
+            "kind": "move",
+            "target": 1.2780972450961724
+        },
+        {
+            "kind": "wait",
+            "timeout": 5
+        },
+        {
+            "kind": "pause",
+            "duration": 0.5
+        },
+        {
+            "kind": "move",
+            "target": -6.081385919380437,
+            "direction": -1
+        },
+        {
+            "kind": "pause",
+            "duration": 0.25
+        },
+        {
+            "kind": "move",
+            "target": 5.423993611824805,
+            "direction": 1
+        },
+        {
+            "kind": "pause",
+            "duration": 0.25
+        },
+        {
+            "kind": "move",
+            "target": 5.236638423634369,
+            "direction": 1
+        },
+        {
+            "kind": "move",
+            "target": 2.960641086003048,
+            "direction": -1
+        },
+        {
+            "kind": "move",
+            "target": 5.168765468027093,
+            "direction": 1
+        },
+        {
+            "kind": "move",
+            "target": 6.1092307913544415,
+            "direction": -1
+        },
+        {
+            "kind": "move",
+            "target": 2.0501572407463114,
+            "direction": -1
+        }
+    ]
+}
