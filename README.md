@@ -1,4 +1,7 @@
 # Kinect-Maze
+(Deprecated)
+
+**NiTE C has been fully replaced with Openni2, and Openni2 has then been replaced by the Azure Kinect**
 
 New release! Use Openni2 instead of NiTE's C code.
 For more documentation, see the project wiki.
